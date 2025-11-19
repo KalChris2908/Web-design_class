@@ -1,24 +1,6 @@
-header, footer {
-  background-color: #222;
-  color: white;
-  text-align: center;   /* FIXED */
-  padding: 15px;
-}
-
-.container {
-  display: flex;
+.box1 {
   margin: 20px;
-}
-
-.main {
-  flex: 3;
   padding: 15px;
-  background-color: #f9f9f9;
-  margin-right: 10px;
-}
-
-.sidebar {
-  flex: 1;
-  padding: 15px;
-  background-color: #e8e8e8;
+  border: 3px solid #333;
+  background-color: #f2f2f2;
 }
